@@ -20,6 +20,3 @@ for guess in guesses:
         break
 else:
     print("Password not found")    
-
- #how does the program know the length of the password? if its unknown, i.e i need to make a program in which it doesnt depend on the length of the password
-     
